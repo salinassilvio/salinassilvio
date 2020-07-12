@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'am Silvio 👋👨🏽‍💻
 
+Soy un Desarrollador web que se apasiona por las tecnologias .Net y JavaScript. Continuamente me sumergo en cursos para aprender nuevas formas de desarrollar en la web.
 <!--
 **salinassilvio/salinassilvio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
