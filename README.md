@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 </br>
 
-## Acerca de mi:
+## Habilidades:
 <img src="https://img.shields.io/badge/HTML5-e96228" /> <img src="https://img.shields.io/badge/CSS3-0391cb" /> <img src="https://img.shields.io/badge/Bootstrap-563173" /> <img src="https://img.shields.io/badge/JavaScript-ffc742" /> <img src="https://img.shields.io/badge/.Net-6C10B3" />
 
 </br>
 
-## Acerca de mi:
+## Otras Habilidades:
 <details>
-	<summary>Skills</summary>
+	<summary>Desarrollos</summary>
 	<ul>
 		<li><b>DB</b>: MariaDB, SQL Server, PostgreSQL. </li>
 		<li><b>Javascript</b>: Nodejs, Vue, Reactjs, Vainilla.</li>
