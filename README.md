@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - ☕ Unas cuantas tazas de cafe para desarrollar por las noches🌙
 - Algunas cosas de mi interes:
 👦 People😺 Animals💐 Plants🌍 Nature 🍔🍕 Food ⚽ Activity🏖 Travel💎 Objects 
+
+</br>
+## Skills
+<img src="https://img.shields.io/badge/HTML5-e96228" />  <img src="https://img.shields.io/badge/CSS3-0391cb" /> <img src="https://img.shields.io/badge/Bootstrap-563173" /> 
+<img src="https://img.shields.io/badge/JavaScript-ffc742" />  <img src="https://img.shields.io/badge/C#-6C10B3" />
