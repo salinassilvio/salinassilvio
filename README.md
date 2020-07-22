@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-e96228" /> <img src="https://img.shields.io/badge/CSS3-0391cb" /> <img src="https://img.shields.io/badge/Bootstrap-563173" /> <img src="https://img.shields.io/badge/JavaScript-ffc742" /> <img src="https://img.shields.io/badge/.Net-6C10B3" />
 
 </br>
-### Otras Habilidades (Click)
+## other
 
 <details>
 	<summary>Skills</summary>
