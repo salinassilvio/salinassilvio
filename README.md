@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ## About me:
 - 💻 Me encuentro aprendiendo Reactjs y Nodejs
 - ☕ Unas cuantas tazas de cafe para desarrollar por las noches🌙
-- Algunas cosas de mi interes:
+- Things the I interesting in:
 👦 People😺 Animals💐 Plants🌍 Nature 🍔🍕 Food ⚽ Activity🏖 Travel💎 Objects 
 
 </br>
