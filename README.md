@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 </br>
 
 ## About me:
-- 💻 Me encuentro aprendiendo Reactjs y Nodejs
+- 💻 I am learning Reactjs y Nodejs
 - ☕ Unas cuantas tazas de cafe para desarrollar por las noches🌙
 - Things the I interesting in:
 👦 People😺 Animals💐 Plants🌍 Nature 🍔🍕 Food ⚽ Activity🏖 Travel💎 Objects 
