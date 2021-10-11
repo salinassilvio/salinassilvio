@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💻 I am learning Reactjs y Nodejs
 - ☕ A few cups of coffee to develop in the evenings 🌙
 - Things the I interesting in:
-👦 People😺 Animals💐 Plants🌍 Nature 🍔🍕 Food ⚽ Activity🏖 Travel💎 Objects 
+👦 Peoples 😺 Animals 💐 Plants 🌍 Nature 🍔🍕 Food ⚽ Activity 🏖 Travel 💎 Objects 
 
 </br>
 
