@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ## About me:
 - 💻 I am learning Reactjs y Nodejs
-- ☕ Unas cuantas tazas de cafe para desarrollar por las noches🌙
+- ☕ A few cups of coffee to develop in the evenings 🌙
 - Things the I interesting in:
 👦 People😺 Animals💐 Plants🌍 Nature 🍔🍕 Food ⚽ Activity🏖 Travel💎 Objects 
 
@@ -30,36 +30,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-## Skills:
-<img src="https://img.shields.io/badge/HTML5-e96228" /> <img src="https://img.shields.io/badge/CSS3-0391cb" /> <img src="https://img.shields.io/badge/Bootstrap-563173" /> <img src="https://img.shields.io/badge/JavaScript-ffc742" /> <img src="https://img.shields.io/badge/.Net-6C10B3" />
-
-</br>
-
-## Other Skills:
-<details>
-	<summary>Desarrollos</summary>
-	<ul>
-		<li><b>DB</b>: MariaDB, SQL Server, PostgreSQL. </li>
-		<li><b>Javascript</b>: Nodejs, Vue, Reactjs, Vainilla.</li>
-		<li><b>API</b>: Nodejs, API ASP.Net, API ASP.Net Core, RestFUL, JSON.</li>
-		<li><b>CMS</b>: Wordpress</li>
-		<li><b>DEVELOP</b>: Responsive design, MVC, POO, Scrum, Agile.</li>
-  </ul>
-</details>
-<details>
-	<summary>Herramientas</summary>
-	<ul>
-	  <li>Visual Studio Code.</li>
-	  <li>Postman.</li>
-	  <li>Git.</li>
-	</ul>
-</details>
-
-<details>
-	<summary>S.O</summary>
-	<ul>
-	   <li><b>Systems</b>: Windows Server, Windows</li>
-	   <li><b>VM</b>: VirtualBox.</li>
-	</ul>
-</details>
 
